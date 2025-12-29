@@ -42,8 +42,4 @@ How will climate-change–driven glacial shrinkage affect freshwater availabilit
 - Evaluation of counterarguments and limitations
 - Clear written communication of complex scientific concepts
 
----
 
-## Context
-
-This project complements spatial and quantitative environmental analysis work (e.g. GIS-based terrain suitability analysis) by focusing on **conceptual reasoning, scientific synthesis, and policy-relevant environmental impacts**.
