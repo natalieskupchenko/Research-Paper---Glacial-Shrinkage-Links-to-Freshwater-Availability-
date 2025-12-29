@@ -4,6 +4,8 @@ This repository contains an academic research paper examining how climate-change
 
 The paper was written as an term project for SCIE 113 at UBC and is based on an extensive review of peer-reviewed literature in glaciology, hydrology, and environmental science.
 
+[Download the PDF here](Glacial Shrinkage in Western Canada Threatens Freshwater Availability .pdf). 
+
 ---
 
 ## Research Focus
